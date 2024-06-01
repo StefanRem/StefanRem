@@ -1,11 +1,13 @@
 👋 Hi, I’m @StefanRem
 
+👋 Hi, I’m @StefanRem
+
 👀 I’m interested in SAP Consulting, Logistics Management, and Process Optimization.
 🌱 I’m currently learning advanced SAP S/4HANA modules and project management techniques.
 💞️ I’m looking to collaborate on SAP implementation projects, process improvement initiatives, and logistics optimization.
-📫 How to reach me: stefan.remus@outlook.com
+📫 How to reach me: stefan.remus.sap@outlook.com
 😄 Pronouns: He/Him
-⚡ Fun fact: I have extensive experience in Lean/Kaizen and 5S methodologies.
+⚡ Fun fact: I have extensive experience in Kaizen and 5S methodologies.
 
 <!---
 StefanRem/StefanRem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
